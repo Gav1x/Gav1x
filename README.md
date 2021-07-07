@@ -2,7 +2,7 @@ Hi.
 
 - 💬 retarded
 - ⚡ brain sick
-- 
+- 🤪 freak
 <p align="left">
   <strong>Change the language</strong>
 </p>
