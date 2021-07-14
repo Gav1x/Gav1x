@@ -1,4 +1,1 @@
 Hi.
-
-- 💬 retarded
-- ⚡ brain sick
