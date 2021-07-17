@@ -7,6 +7,7 @@ Programming noob
 
 ### About Me:
  <summary><strong>What i am learning/working on these days</strong></summary>
+ 
   - 💬 Pergunte-me sobre qualquer coisa. </br>
   - ⚡ Tô 🏃🏻‍♂️ de problemas. </br>
 
