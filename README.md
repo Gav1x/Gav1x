@@ -1,11 +1,11 @@
-<div align=center>
-	<h1> Hi there, I'm Gav1x <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <h1>
-		</a>
-		<a href="https://twitter.com/g4v1x">
-			<img src="https://img.shields.io/badge/Twitter-blue"/>
-</div><br/>
+# Hi there 👋 , I'm Gav1x
+Programming noob
+### About Me:
+ <summary><strong>What i am learning/working on these days</strong></summary>
+  - 💬 Pergunte-me sobre qualquer coisa. </br>
+  - ⚡ Tô 🏃🏻‍♂️ de problemas. </br>
 
-<div align=center>
-	<h3> GitHub Stats </h3>
-	<p> <img alt="Gav1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gav1x&theme=chartreuse-dark&show_icons=true&hide_border=true"/></p>
-</div><hr/><br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=cyan">
