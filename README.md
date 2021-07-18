@@ -1,5 +1,3 @@
-[![Gav1x's github stats](https://github-readme-stats.vercel.app/api?username=gav1x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi there 👋 , I'm Gav1x
 Programming noob
 
