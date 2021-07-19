@@ -3,7 +3,7 @@ Programming noob
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-gav1x-6A5ACD?style=flat&labelColor=6A5ACD&logo=discord&logoColor=white)](https://discord.gg/BKy2WH9V)
+[![Mail Badge](https://img.shields.io/badge/-gav1x-6A5ACD?style=flat&labelColor=6A5ACD&logo=discord&logoColor=white)](https://discord.gg/devnoias)
 
 ### About Me:
   - 💬 Pergunte-me sobre qualquer coisa. </br>
