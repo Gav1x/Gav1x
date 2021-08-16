@@ -1,9 +1,4 @@
 # Hi there 👋 , I'm Gav1x
-Programming noob
-
-:mailbox: Reach me out!
-
-[![Mail Badge](https://img.shields.io/badge/-gav1x-6A5ACD?style=flat&labelColor=6A5ACD&logo=discord&logoColor=white)](https://discord.gg/MKbDCxw6)
 
 ### About Me:
   - ⚡ Tô 🏃🏻‍♂️ de problemas. </br>
